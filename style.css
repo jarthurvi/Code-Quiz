@@ -20,11 +20,16 @@ h4 {
     margin-left: 0px;
 }
 
-#buttonstart {
+div {
+    align-content: center;
+}
+
+#buttonstart, {
     
     color: rgb(255, 30, 0);
     background-color: rgb(255, 238, 0);
     margin-right: -50px;
   }
+
 
 
