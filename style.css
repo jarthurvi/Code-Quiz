@@ -12,7 +12,7 @@ h2 {
 
 h3 {
     margin-top:  -100px; 
-    margin-left: 600px;
+    margin-left: 750px;
 }
 
 h4 {
@@ -20,11 +20,8 @@ h4 {
     margin-left: 0px;
 }
 
-div {
-    align-content: center;
-}
 
-#buttonstart, {
+#buttonstart {
     
     color: rgb(255, 30, 0);
     background-color: rgb(255, 238, 0);
