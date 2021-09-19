@@ -1,0 +1,1 @@
+var startGame = document.querySelector("button");

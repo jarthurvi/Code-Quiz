@@ -1,0 +1,30 @@
+header,body {
+    background-color: khaki;
+}
+
+h1,h2 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 12pt;
+}
+
+h3 {
+    margin-top:  -100px; 
+    margin-left: 600px;
+}
+
+h4 {
+    margin-top: -25px; 
+    margin-left: 0px;
+}
+
+#buttonstart {
+    
+    color: rgb(255, 30, 0);
+    background-color: rgb(255, 238, 0);
+    margin-right: -50px;
+  }
+
+
