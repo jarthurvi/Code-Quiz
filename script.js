@@ -5,17 +5,17 @@ var countEl = document.querySelector("#count");
 var count = 76;
 
 
-function setCounterText() {
-  countEl.textContent = count;
-}
+//function setCounterText() {
+  //countEl.textContent = count;
+//}
 
 startQuiz.addEventListener("click", function() {
  
-  if (count > 0) {
-    count--;
-    setCounterText();
-
-  }
-});
-
-
+  
+    //setCounterText();
+    var myCounter=setInterval(function{
+        count--
+        },1000)
+        )
+    
+    
